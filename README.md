@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" width="180" alt="JG Ryuu logo">
+</p>
+
 <h1 align="center">Hi, I'm Waguri Ryu 👋</h1>
 
 <p align="center">
@@ -25,30 +29,12 @@
 
 ## 🚀 Featured projects
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3><a href="https://github.com/JGRyuuTB/Pixel-Gallery">🖼️ Pixel Gallery</a></h3>
-      Open-source photo and video gallery for Android. Material You, glass navigation bar, built-in video player. No ads, no trackers, no internet.
-      <br><br>
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
-      <img src="https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Compose">
-    </td>
-    <td width="33%" valign="top">
-      <h3><a href="https://github.com/JGRyuuTB/TGPDrive">☁️ TGPDrive</a></h3>
-      Fork of TeleDrive: turn a private Telegram channel into your personal cloud drive, with auto backup and optional E2E encryption.
-      <br><br>
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
-      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
-    </td>
-    <td width="33%" valign="top">
-      <h3><a href="https://github.com/JGRyuuTB/OpenAnime">🎬 OpenAnime</a></h3>
-      Open-source Python project, licensed under GPL v3.
-      <br><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-    </td>
-  </tr>
-</table>
+<h3><a href="https://github.com/JGRyuuTB/Pixel-Gallery">🖼️ Pixel Gallery</a></h3>
+
+Open-source photo and video gallery for Android. Material You, glass navigation bar, built-in video player. No ads, no trackers, no internet.
+
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
+<img src="https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Compose">
 
 ---
 
@@ -82,4 +68,7 @@
 - Telegram: [@JG_ryuu](https://t.me/JG_ryuu)
 - Channel: [Dragon's Bastion](https://t.me/dragonsbastion)
 
-<p align="center"><sub>Made with ❤️ by <b>JG Ryuu</b></sub></p>
+<p align="center">
+  <img src="logo.png" width="70" alt="JG Ryuu logo"><br>
+  <sub>Made with ❤️ by <b>JG Ryuu</b></sub>
+</p>
