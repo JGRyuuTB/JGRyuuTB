@@ -21,7 +21,6 @@
 
 - 📱 I build Android apps with **Kotlin** and **Jetpack Compose**, styled after native Pixel apps.
 - 🎨 I'm into **Material You / Material Design 3**, clean UI and smooth animations.
-- 🐍 I also write tools and bots in **Python**.
 - ⚙️ I automate my builds with **GitHub Actions**.
 - 📣 I post updates about my projects on [Dragon's Bastion](https://t.me/dragonsbastion).
 
