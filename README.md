@@ -28,7 +28,7 @@
 
 ## 🚀 Featured projects
 
-<h3><a href="https://github.com/JGRyuuTB/Pixel-Gallery">🖼️ Pixel Gallery</a></h3>
+<h3><a href="https://github.com/JGRyuuTB/Pixel-Gallery">🖼️ Pixel Gallery You</a></h3>
 
 Open-source photo and video gallery for Android. Material You, glass navigation bar, built-in video player. No ads, no trackers, no internet.
 
